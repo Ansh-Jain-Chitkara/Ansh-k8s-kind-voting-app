@@ -40,23 +40,32 @@ This guide covers the steps to:
 
 ### Project Title: 
 
-Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD
+Automated Deployment and Observability of Kubernetes Workloads on AWS using Argo CD, Prometheus, and Grafana
 
 ### Description: 
 
-Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo CD for streamlined management and continuous integration. Orchestrated deployments via Kubernetes dashboard, ensuring efficient resource utilization and seamless scaling.
+Designed and implemented a production-style Kubernetes platform on AWS EC2 to deploy, manage, and monitor containerized applications using GitOps and full-stack observability.
+
+Built a Kubernetes cluster on AWS EC2 and automated application deployments using Argo CD, enabling continuous delivery directly from Git repositories.Implemented a centralized monitoring and alerting stack using Prometheus, Grafana, Alertmanager, and Node Exporter to gain real-time visibility into cluster, node, and application performance.
+
+The platform provided automated deployments, live metrics, and operational insights similar to modern cloud-native production environments.
 
 ### Key Technologies:
 
-* AWS EC2: Infrastructure hosting for Kubernetes clusters.
-* Kubernetes Dashboard: User-friendly interface for managing containerized applications.
-* Argo CD: Continuous Delivery tool for automated application deployments.
+* AWS EC2 – Infrastructure for Kubernetes worker and control-plane nodes
+* Kubernetes – Container orchestration and service management
+* Argo CD – GitOps-based continuous delivery
+* Helm – Package management for Kubernetes
+* Prometheus – Metrics collection and time-series monitoring
+* Grafana – Visualization and dashboarding
+* Alertmanager – Alerting and notification management
+* Node Exporter – Node-level OS and resource metrics
 
 ### Achievements:
 
-Implemented Kubernetes dashboard for visual management of containerized applications on AWS EC2 instances.
-Utilized Argo CD for automated deployment pipelines, enhancing deployment efficiency by 60%.
-Achieved seamless scaling and high availability, supporting 99.9% uptime for critical applications.
-This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
+Automated Kubernetes deployments on AWS EC2 using Argo CD (GitOps), reducing manual release effort by ~60%.
+Implemented a production-grade observability stack using Prometheus, Grafana, Alertmanager, and Node Exporter to monitor cluster health and application performance.
+Built dashboards and PromQL queries to track CPU, memory, and network I/O per pod, enabling faster root-cause analysis and capacity planning.
+Achieved 99.9% application uptime through Kubernetes-based scaling, self-healing, and continuous monitoring.
 
 # Ansh-Jain
