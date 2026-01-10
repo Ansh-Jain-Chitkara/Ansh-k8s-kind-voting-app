@@ -131,6 +131,14 @@
   ```bash
   kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/aio/deploy/recommended.yaml
   ```
+- Create ServiceAccoun(admin-user) and RBAC:
+  ```bash
+  kubectl apply -f dashboard-adminuser.yml
+  ```
+- Kubernetes-dashboard port forwarding:
+  ```bash
+  kubectl port-forward svc/kubernetes-dashboard -n kubernetes-dashboard 8080:443 --address=0.0.0.0 &
+  ```
 
 - Create a token for dashboard access:
   ```bash
