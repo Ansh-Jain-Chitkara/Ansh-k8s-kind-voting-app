@@ -131,7 +131,7 @@
   ```bash
   kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/aio/deploy/recommended.yaml
   ```
-- Create ServiceAccoun(admin-user) and RBAC:
+- Create ServiceAccount(admin-user) and RBAC:
   ```bash
   kubectl apply -f dashboard-adminuser.yml
   ```
