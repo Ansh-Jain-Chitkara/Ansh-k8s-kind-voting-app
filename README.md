@@ -18,6 +18,14 @@ This guide covers the steps to:
 
 ![Architecture diagram](k8s-kind-voting-app.png)
 
+## ArgoCd
+
+<img width="1891" height="843" alt="image" src="https://github.com/user-attachments/assets/c0208e79-bc3b-4bb3-8da6-8acc847188c1" />
+
+## Kubernetes Dashboard
+
+<img width="1906" height="835" alt="image" src="https://github.com/user-attachments/assets/52bab718-3b3c-4ad3-bf52-bb5898f83df7" />
+
 ## Observability
 
 <img width="1898" height="835" alt="image" src="https://github.com/user-attachments/assets/5747414a-7147-46c9-8cc7-cd3e9a018c73" />
