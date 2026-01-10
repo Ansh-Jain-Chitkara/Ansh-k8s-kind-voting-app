@@ -30,10 +30,6 @@ This guide covers the steps to:
 * A [Postgres](https://hub.docker.com/_/postgres/) database backed by a Docker volume
 * A [Node.js](/result) web app which shows the results of the voting in real time
 
-
-
-## Resume Description
-
 ### Project Title: 
 
 Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD
