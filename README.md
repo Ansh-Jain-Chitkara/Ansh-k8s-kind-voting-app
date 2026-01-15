@@ -33,6 +33,9 @@ The platform provided automated deployments, live metrics, and operational insig
 * A [Postgres](https://hub.docker.com/_/postgres/) database backed by a Docker volume
 * A [Node.js](/result) web app which shows the results of the voting in real time
 
+<img width="860" height="800" alt="image" src="https://github.com/user-attachments/assets/231e4db1-37b3-4209-9ad6-070c6bbb62c0" />
+
+
 ## ArgoCd
 
 <img width="1891" height="843" alt="image" src="https://github.com/user-attachments/assets/c0208e79-bc3b-4bb3-8da6-8acc847188c1" />
